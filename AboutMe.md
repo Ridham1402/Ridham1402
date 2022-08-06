@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ridham
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning OOPs in python along with Django framework
+- 🌱 I’m currently learning OOPs in python along with Django framework. 
      Also, learning NodeJS with express framework
 - 🌸 I also code in languages C, C++ and python
 <!--- - 💞️ I’m looking to collaborate on ...  --->
